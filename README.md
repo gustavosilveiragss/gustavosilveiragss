@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Gustavo</h1>
 <h3 align="center">A Software Engineering student who loves the process of creating and learning</h3>
 
-- 🌱 I’m currently learning **The Rust language and related frameworks**
+- 🌱 I’m currently learning **The Rust language and applications related to it**
 
-- 👨‍💻 All of my projects are available at [https://gustavosilveira.codes](https://gustavosilveira.codes)
+- 👨‍💻 All of my projects are available at [https://www.gustavosilveira.codes](https://www.gustavosilveira.codes)
 
 - 📫 Reach me at **gustavo24gss@gmail**
 
-- ⛰️ My main interests are: **Hiking, reading, running and music**
+- ⛰️ My main interests are: **hiking, reading, running and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
