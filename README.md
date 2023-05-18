@@ -12,8 +12,6 @@
 ---
 
 ### I'm open to:
-- Internships or part time jobs
-- Freelance jobs 
 - Contributing to Open Source projects 
 - Exploring various opportunities and learning new things
   
