@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gustavo</h1>
 <h3 align="center">A Software Engineering student who loves the process of creating and learning</h3>
 
-- 🌱 I’m currently learning **The Rust language and some of it's applications**
+- 🌱 I’m currently learning **DSA, Rust and messing around with some electronics**
 
 - 👨‍💻 All of my projects are available at [https://www.gustavosilveira.codes](https://www.gustavosilveira.codes)
 
